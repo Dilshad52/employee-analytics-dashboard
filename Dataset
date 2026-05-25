@@ -1,0 +1,16 @@
+employee_id	employee_name	department	city	salary	experience_years	performance_score	joining_year
+101	Ravi	IT	Hyderabad	45000	2	78	2021
+102	Sara	HR	Chennai	35000	3	70	2020
+103	John	Sales	Bangalore	30000	1	65	2023
+104	Ali	IT	Hyderabad	50000	4	90	2019
+105	Neha	HR	Pune	28000	2	60	2022
+106	Kiran	Sales	Hyderabad	42000	5	82	2018
+107	Arjun	IT	Bangalore	60000	6	95	2017
+108	Meera	Finance	Chennai	47000	4	85	2019
+109	David	Marketing	Pune	39000	3	72	2021
+110	Priya	Finance	Hyderabad	52000	5	88	2018
+111	Rahul	Sales	Bangalore	33000	2	68	2022
+112	Sneha	IT	Chennai	58000	6	92	2017
+113	Vikram	Marketing	Hyderabad	41000	3	74	2020
+114	Pooja	HR	Pune	32000	2	66	2021
+115	Imran	IT	Hyderabad	65000	7	98	2016
