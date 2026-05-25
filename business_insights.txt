@@ -1,0 +1,21 @@
+EMPLOYEE PERFORMANCE & SALARY ANALYTICS – BUSINESS INSIGHTS
+
+1. The IT department contributes the highest payroll expenditure in the organization.
+
+2. Hyderabad has the highest employee concentration compared to other cities.
+
+3. High salary employees are primarily from technical departments such as IT and Finance.
+
+4. Employees with higher experience years generally show better performance scores.
+
+5. The average employee salary indicates a balanced payroll distribution across departments.
+
+6. HR department maintains comparatively lower salary allocation than IT and Finance.
+
+7. The dashboard provides interactive filtering using department and city slicers for better business analysis.
+
+8. Salary trend analysis shows that experienced employees who joined earlier tend to receive higher compensation.
+
+9. The organization shows stronger workforce concentration in technology-focused departments.
+
+10. The dashboard helps management monitor payroll, employee distribution, department performance, and workforce insights effectively.
